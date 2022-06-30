@@ -21,7 +21,7 @@ p {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url(img/picography-bird-image-in-latte-art.jpg) ;
+    background: url("../img/picography-bird-image-in-latte-art.jpg") ;
     opacity: 0.9;
     background-size: cover;
     clip-path: polygon(25% 0%, 100% 0%, 75% 100%, 0% 100%);
